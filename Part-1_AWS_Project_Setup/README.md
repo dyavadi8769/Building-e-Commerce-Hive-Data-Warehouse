@@ -130,6 +130,3 @@ $ sudo systemctl stop docker
 ```
 
 Exit from SSH and then stop your EC2 instance in the AWS Management Console.
-
-
-hive_docker_setup.pem
